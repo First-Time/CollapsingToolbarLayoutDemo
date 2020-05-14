@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="flutter_names">
+        <item>全部</item>
+        <item>flutter_1</item>
+        <item>flutter_2</item>
+        <item>flutter_3</item>
+        <item>flutter_4</item>
+        <item>flutter_5</item>
+        <item>flutter_6</item>
+        <item>flutter_7</item>
+        <item>flutter_8</item>
+        <item>flutter_9</item>
+        <item>flutter_11</item>
+        <item>flutter_12</item>
+        <item>flutter_13</item>
+        <item>flutter_14</item>
+        <item>flutter_15</item>
+        <item>flutter_16</item>
+        <item>flutter_17</item>
+        <item>flutter_18</item>
+        <item>flutter_19</item>
+        <item>flutter_20</item>
+        <item>flutter_21</item>
+        <item>flutter_22</item>
+        <item>flutter_23</item>
+        <item>flutter_24</item>
+        <item>flutter_25</item>
+        <item>flutter_26</item>
+        <item>flutter_27</item>
+        <item>flutter_28</item>
+        <item>flutter_29</item>
+    </string-array>
+</resources>

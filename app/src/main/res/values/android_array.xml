@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="android_names">
+        <item>全部</item>
+        <item>android_1</item>
+        <item>android_2</item>
+        <item>android_3</item>
+        <item>android_4</item>
+        <item>android_5</item>
+        <item>android_6</item>
+        <item>android_7</item>
+        <item>android_8</item>
+        <item>android_9</item>
+        <item>android_11</item>
+        <item>android_12</item>
+        <item>android_13</item>
+        <item>android_14</item>
+        <item>android_15</item>
+        <item>android_16</item>
+        <item>android_17</item>
+        <item>android_18</item>
+        <item>android_19</item>
+        <item>android_20</item>
+        <item>android_21</item>
+        <item>android_22</item>
+        <item>android_23</item>
+        <item>android_24</item>
+        <item>android_25</item>
+        <item>android_26</item>
+        <item>android_27</item>
+        <item>android_28</item>
+        <item>android_29</item>
+    </string-array>
+</resources>
